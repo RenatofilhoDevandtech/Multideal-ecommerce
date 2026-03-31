@@ -1,7 +1,7 @@
 # 🚀 Multideal: Ecossistema de Aceleração B2B & Afiliação Inteligente
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200" alt="Multideal Banner" />
+  <img src="https://github.com/user-attachments/assets/424fa96b-6702-4e07-8ea3-e9c35905b2a1" alt="Multideal Banner" />
 
   <br />
   <br />
