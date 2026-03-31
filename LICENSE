@@ -1,13 +1,29 @@
-Copyright (c) 2026 Equipe EcoShop
+# 📜 Multideal Smart License (MSL) - Open Source com Atribuição de Autoridade
 
-Fica concedida permissão, de forma gratuita, a qualquer pessoa que obtenha uma cópia deste software e da documentação associada (doravante denominado “Software”), para utilizar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou criar obras derivadas do Software, desde que respeitadas as seguintes condições:
+**Copyright (c) 2026 Renato Filho (Cresce AI / Multideal)**
 
-Proibição de comercialização direta: não é permitido vender ou comercializar o Software em sua forma original, isolada ou sem modificações substanciais.
+Esta é uma Licença de Código Aberto "Inteligente". O objetivo principal deste repositório é fomentar o ecossistema de desenvolvedores Front-End e Empreendedores, permitindo que você estude, aprenda e integre essas soluções para escalar os seus próprios projetos. Contudo, a engenharia de negócios aqui apresentada demanda que a autoria técnica e a visão de arquitetura original sejam incondicionalmente respeitadas.
 
-Permissão para melhorias e integrações: é permitido incorporar o Software em projetos, inclusive de natureza comercial, desde que o Software não seja vendido separadamente e que sejam atribuídos os devidos créditos à Equipe EcoShop.
+---
 
-Aviso de direitos autorais: o aviso de copyright acima e este aviso de permissão deverão constar em todas as cópias ou partes substanciais do Software.
+## 🟢 O que você PÊRMITE e PODE fazer (Permissões):
+1. **Uso Comercial e Pessoal:** Utilizar a base deste código (os padrões de UI, lógicas do React Query e integrações) para rodar os seus próprios projetos de e-commerce, portfólios ou funis de afiliação.
+2. **Modificação Livre:** Alterar componentes, injetar as suas próprias APIs (Shopee, Amazon, Awil, etc.), refatorar a arquitetura e mudar a identidade visual conforme a necessidade do seu negócio.
+3. **Distribuição e Fork:** Compartilhar o repositório formaticamente com a sua equipe técnica ou manter forks públicos para estudo.
 
-Declaração de independência: este projeto é independente e não possui vínculo com terceiros ou empresas que possam ter servido de inspiração.
+## 🔴 O que NÃO É PERMITIDO (Restrições):
+1. **Comercialização do Código "As Is" (Como Está):** É expressamente proibido empacotar este repositório exato e revendê-lo como um "Template E-commerce Premium" ou SaaS genérico em marketplaces (como ThemeForest ou afins) sem adicionar um nível de valor substancial ou realizar modificações profundas na arquitetura.
+2. **Omissão de Autoria e Falso Portfólio:** Assumir o crédito público da criação desta arquitetura híbrida avançada (Design UX de Alta Densidade + Scout AI Logic + ROI Dashboards) como sendo 100% idealizada por você em seu portfólio.
 
-O SOFTWARE É FORNECIDO “NO ESTADO EM QUE SE ENCONTRA”, SEM GARANTIA DE QUALQUER NATUREZA, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO, ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO OU AUSÊNCIA DE VIOLAÇÃO. EM NENHUMA HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO CONTRATUAL, ATO ILÍCITO OU OUTRA FORMA, DECORRENTE DE OU RELACIONADA AO SOFTWARE OU AO USO OU OUTRAS INTERAÇÕES COM O SOFTWARE.
+---
+
+## 🤝 Cláusula de Atribuição de Genialidade (Obrigatória)
+A condição irrevogável para o uso deste software — seja de forma integral ou adotando parcelas significativas do código e da lógica de negócios (como a mecânica gamificada de impacto e o `ScoutAIService`) — é a **atribuição visível ao criador**. 
+
+Se você for fazer o *deploy* deste projeto ao vivo ou for expor a arquitetura base em seu portfólio (GitHub, LinkedIn, sites pessoais, apresentações para vagas/clientes), você **obrigatoriamente deve**:
+1. Incluir um link explícito apontando para o autor. Exemplo prático de rodapé institucional: *"Arquitetura base inspirada por Renato Filho"* (com link para o seu LinkedIn ou GitHub).
+2. Manter este arquivo `LICENSE` ou o aviso de Copyright inalterado nos arquivos base da versão que for tornada pública.
+
+---
+
+*Acreditamos no Open Source que conecta pessoas e constrói redes de networking reais. Use o código, lucre, automatize o seu afiliado e empreenda de forma inteligente. Mas lembre-se: o verdadeiro sucesso no mercado de tecnologia é pautado pela ética e pelo reconhecimento de quem construiu a fundação. O sucesso é colaborativo.*
