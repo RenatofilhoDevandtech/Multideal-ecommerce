@@ -1,10 +1,9 @@
 <div align="center">
+  <h1>Multideal Labs <br/> <span style="font-weight: 300; font-size: 0.6em; color: #888;">B2B Acceleration & Smart Affiliation Ecosystem</span></h1>
   <img width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" src="https://github.com/user-attachments/assets/424fa96b-6702-4e07-8ea3-e9c35905b2a1" alt="Multideal Banner" />
 
   <br />
   <br />
-
-  <h1>Multideal Labs <br/> <span style="font-weight: 300; font-size: 0.6em; color: #888;">B2B Acceleration & Smart Affiliation Ecosystem</span></h1>
 
   <p align="center">
     <b>Conversão Agressiva • Engenharia de Software Avançada • Impacto B2B</b>
