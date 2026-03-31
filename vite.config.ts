@@ -24,7 +24,6 @@ export default defineConfig(({ mode }) => ({
     rollupOptions: {
       output: {
         manualChunks: {
-          'vendor-react': ['react', 'react-dom', 'react-router-dom'],
           'vendor-ui': ['@radix-ui/react-accordion', '@radix-ui/react-dialog', 'lucide-react', 'framer-motion'],
           'vendor-utils': ['@tanstack/react-query', 'date-fns', 'zod', 'clsx', 'tailwind-merge'],
         },
