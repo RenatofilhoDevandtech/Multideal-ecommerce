@@ -1,0 +1,22 @@
+
+export { default as Index } from './Home';
+export { default as Products } from './Products';
+export { default as Categories } from './Categories';
+export { default as MyOrders } from './MyOrders';
+export { default as Login } from './Login';
+export { default as Checkout } from './Checkout';
+export { default as MyImpact } from './MyImpact';
+export { default as SellEco } from './SellEco';
+export { default as Help } from './Help';
+export { default as KitsValidados } from './KitsValidados';
+export { default as Labs } from './Labs';
+export { default as About } from './About';
+export { default as Blog } from './Blog';
+export { default as Careers } from './Careers';
+export { default as Offers } from './Offers';
+export { default as Contact } from './Contact';
+export { default as TrackOrder } from './TrackOrder';
+export { default as Returns } from './Returns';
+export { default as Terms } from './Terms';
+export { default as Privacy } from './Privacy';
+export { default as NotFound } from './NotFound';

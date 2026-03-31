@@ -1,0 +1,111 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 217.6 91.2% 59.8%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-ml-background text-ml-text font-sans;
+  }
+}
+
+.product-card {
+  @apply transition-all duration-300 hover:shadow-lg bg-white rounded-lg overflow-hidden border border-gray-100;
+}
+
+.nav-link {
+  @apply text-sm text-ml-text-light hover:text-ml-text transition-colors;
+}
+
+/* Multideal 2026 Premium Utilities */
+
+
+.bg-mesh {
+  background-color: #ebebeb;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(255, 241, 89, 0.2) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(0, 166, 80, 0.1) 0px, transparent 50%);
+}
+
+.glass {
+  @apply bg-white/80 backdrop-blur-md border border-white/20;
+}
+
+.ml-shadow {
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
+}
+
+.ml-header-gradient {
+  @apply bg-ml-yellow;
+}
+
+.trust-badge {
+  @apply flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-bold uppercase;
+}
+
+.ml-impact-meter {
+  @apply h-1.5 w-full bg-gray-100 rounded-full overflow-hidden;
+}
+
+.ml-impact-fill {
+  @apply h-full bg-ml-blue transition-all duration-500;
+}
+
+
+/* Nielsen Heuristics: System Status - Visual Feedback */
+.btn-loading {
+  @apply relative !text-transparent pointer-events-none;
+}
+
+.btn-loading::after {
+  content: "";
+  @apply absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin;
+}
+
+/* Animations */
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.animate-slide-up {
+  animation: slideUp 0.5s ease-out forwards;
+}
